@@ -1,8 +1,8 @@
-# TitaniumPhoenix V2
+# Noku Network
 
-A beautiful and lightweight web-proxy site built to be easy to use and modify for everyone; for students, by students.
+A beautiful and lightweight web-proxy site built to be easy to use and modify for everyone; for students, by student.
 
-Initial Release Date: 02/11/2019.
+Initial Release Date: 09/25/2019.
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/titaniumnetwork-dev/phoenix-reborn)
 
